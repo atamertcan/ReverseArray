@@ -8,7 +8,7 @@ This project made for self-improvement.
 
 
 
-<p align = "center">![ReverseArray](https://github.com/user-attachments/assets/5d1f4417-ea56-451a-a6ff-06af0d6af8e5)</p>
+<p align = "center"><img src="https://github.com/user-attachments/assets/5d1f4417-ea56-451a-a6ff-06af0d6af8e5"></p>
 
 
 <p align = "center"><img src="https://github.com/user-attachments/assets/395863de-3f8b-419d-a0f7-64daecbfb4d8"></p>
